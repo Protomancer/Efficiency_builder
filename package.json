@@ -1,0 +1,24 @@
+{
+  "name": "efficiency_builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "git add . && git commit -m \"adding package.json\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Protomancer/Efficiency_builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Protomancer/Efficiency_builder/issues"
+  },
+  "homepage": "https://github.com/Protomancer/Efficiency_builder#readme",
+  "dependencies": {
+    "sequelize": "^6.20.1"
+  }
+}
